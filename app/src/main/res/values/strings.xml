@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="distance_result">%s units</string>
+    <string name="value_of_unit">Value of Unit</string>
+    <string name="select_unit_you_want_to_convert">Select Unit you want to convert:</string>
+    <string name="kilo_meter_to_meter">Kilo Meter to Meter</string>
+    <string name="meter_to_kilo_meter">Meter to Kilo Meter</string>
+    <string name="meter_to_centimeter">Meter to Centimeter</string>
+    <string name="centimeter_to_meter">Centimeter to Meter</string>
+    <string name="centimeter_to_millimeter">Centimeter to Millimeter</string>
+    <string name="millimeter_to_centimeter">Millimeter to Centimeter</string>
+    <string name="calculate">Calculate</string>
+</resources>
